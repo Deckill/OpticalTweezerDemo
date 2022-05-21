@@ -7,7 +7,6 @@ Using tiny spoon, diamond powder were placed at focal point.
 <img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%201/PXL_20211004_091139587.jpg">
 
 [<img src="https://img.youtube.com/vi/8Njso5fNm-E/0.jpg" width="50%">](https://www.youtube.com/watch?v=8Njso5fNm-E)
-[<img src="https://img.youtube.com/vi/-ZuvW0cAcmw/0.jpg" width="50%">](https://www.youtube.com/watch?v=-ZuvW0cAcmw)
 
 Pro: 
 It looks cool.
