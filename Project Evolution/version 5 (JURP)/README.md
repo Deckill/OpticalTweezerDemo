@@ -7,10 +7,10 @@ Knowing that the previous versions (including this) violated regulation and stop
 But I had fun time playing with this, it was very simple design, materials, and operation.
 Also I did some interesting experiments, diffraction pattern of laser with particle and drawing with long exposure photo.
 
-<img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%205%20(JURP)/IMG_20220311_174225.jpg?raw=true">
-<img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%205%20(JURP)/IMG_20220323_145849.jpg?raw=true">
-<img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%205%20(JURP)/PXL_20220312_033000730.jpg?raw=true">
-<img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%205%20(JURP)/PXL_20220317_042908426.jpg?raw=true">
+<img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%205%20(JURP)/Figure1.jpg?raw=true">
+<img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%205%20(JURP)/Figure2.jpg?raw=true">
+<img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%205%20(JURP)/Figure3.jpg?raw=true">
+<img width="560" src="https://github.com/Deckill/OpticalTweezerDemo/blob/main/Project%20Evolution/version%205%20(JURP)/Figure4.jpg?raw=true">
 
 [<img src="https://img.youtube.com/vi/IgZRPFIk14A/0.jpg" width="50%">](https://www.youtube.com/watch?v=IgZRPFIk14A)
 
