@@ -37,4 +37,6 @@ By moving the particle around, when it incident with laser beam, it make the bea
 However, if the laser is focused, there is some region after the focal point where the momentum is applied towards (backwards) the focal point, which means there is a place for a particle to be trapped.
 
 
-Finally, using actual demonstration kit, I trap the soot particle at the focal point of the laser, and moving it around to show it is trapped.
+Then, using actual demonstration kit, I trap the soot particle at the focal point of the laser, and moving it around to show it is trapped.
+
+Finally, by showing a couple of examples of using optical tweezer, one from BYU and one from NanoTracker, explains that optical tweezer can be used in many different places. (and maybe mention Sir ‪Arthur Ashkin‬ won Nobel Prize 2018 with trapping live bacteria using optical tweezer?)
